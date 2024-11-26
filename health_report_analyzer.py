@@ -4,7 +4,7 @@ import pytesseract
 import google.generativeai as genai
 
 # Step 1: Configure the Gemini API
-GEMINI_API_KEY = "AIzaSyDE964W1AZPSnBINofLEG2gqnrpnFcABro"  
+GEMINI_API_KEY = ""  
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Initialize the Gemini model
