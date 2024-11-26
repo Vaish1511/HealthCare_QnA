@@ -24,8 +24,8 @@ import seaborn as sns
 from llama_cpp import Llama
 
 
-GEMINI_API_KEY = "AIzaSyDE964W1AZPSnBINofLEG2gqnrpnFcABro"
-HUGGINGFACEHUB_API_TOKEN = "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"
+GEMINI_API_KEY = ""
+HUGGINGFACEHUB_API_TOKEN = ""
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
 
 
